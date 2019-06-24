@@ -7,3 +7,5 @@ Advanced MultiSkill Training Program
     - Machine Learning
     
     - Data Science
+    
+    - Data Science
