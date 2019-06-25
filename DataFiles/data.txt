@@ -1,6 +1,6 @@
 Advanced MultiSkill Training Program
 - Online Productivity Tools
-- Problem Solving Using Python Programming
+- Problem Solving Using Java Programming 
 - Machine Learning
-- Applied Data Science 
-- Applied Data Science 
+- Supplied Data Science
+- Supplied Data Science
